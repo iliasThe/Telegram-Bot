@@ -4,7 +4,7 @@ from path import Path
 
 
 
-token = "5404650116:AAHFKuX9poF-wUm52eQZuOzna7UL2xLW-a0"
+token = "add your token" #change var
 bot = telebot.TeleBot(token)
 
 
